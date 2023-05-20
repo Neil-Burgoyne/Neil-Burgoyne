@@ -6,7 +6,7 @@
 
 <div align="center">
   
-## [Neil Burgoyne CV](https://github.com/Neil-Burgoyne/Neil-Burgoyne/blob/main/Neil%20Burgoyne%20CV.pdf)
+## [My Resume](https://github.com/Neil-Burgoyne/Neil-Burgoyne/blob/main/Neil%20Burgoyne%20CV.pdf)
  
 </div>
 
