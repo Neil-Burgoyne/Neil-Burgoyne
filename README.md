@@ -6,6 +6,12 @@
 
 <div align="center">
   
+## [Neil Burgoyne CV](https://github.com/Neil-Burgoyne/Neil-Burgoyne/blob/main/Neil%20Burgoyne%20CV.pdf)
+ 
+</div>
+
+<div align="center">
+  
 <hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px/> &nbsp;
