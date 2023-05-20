@@ -6,7 +6,6 @@
 
 <div align="center">
   
-### Currently Learning at CodeClan:
 <hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px/> &nbsp;
